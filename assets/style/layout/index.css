@@ -1,0 +1,73 @@
+.index__h1 {
+  color: #00cc99;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  border-radius: 16px;
+}
+
+.banner {
+  background-image: url("https://github.com/hexschool/webLayoutTraining1st/blob/master/yoga-week8/photo-1612157777902-5382bc6e864b.jpeg?raw=true");
+  background-position: bottom center;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.banner_index {
+  height: 582px;
+}
+
+.intro-pic {
+  height: 420px;
+  width: 350px;
+  border-radius: 16px;
+}
+
+.teacher-banner {
+  height: 628px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.teacher-pic {
+  width: 94px;
+  height: 94px;
+}
+
+.space-banner {
+  width: 350px;
+  height: 444px;
+}
+
+.space-pic {
+  width: 160px;
+  height: 207px;
+}
+
+.footer form {
+  width: 350px;
+}
+
+.footer form input {
+  width: 80%;
+  outline: none;
+}
+
+.footer form button {
+  width: 20%;
+}
+
+.option-pic {
+  width: 350px;
+  height: 350px;
+  border-radius: 16px 16px 0 0;
+}
+
+/*# sourceMappingURL=index.css.map */
